@@ -1,0 +1,31 @@
+{
+  "name": "beautiful-taro-hooks",
+  "version": "0.1.1",
+  "description": "useful taro hooks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamAzi/beautiful-taro-hooks.git"
+  },
+  "keywords": [
+    "taro",
+    "hooks",
+    "use",
+    "react"
+  ],
+  "author": "Azi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamAzi/beautiful-taro-hooks/issues"
+  },
+  "homepage": "https://github.com/iamAzi/beautiful-taro-hooks#readme",
+  "peerDependencies": {
+    "@tarojs/taro": "1.3.27",
+    "@tarojs/taro-h5": "1.3.27",
+    "@tarojs/taro-weapp": "1.3.27"
+  }
+}
